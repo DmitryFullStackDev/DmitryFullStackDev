@@ -8,7 +8,6 @@
   <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Check my links below&nbsp;👇</p>
   📌 <a href="https://">My Portfolio</a>&nbsp;&nbsp;&nbsp;<br />
   📧 <a href="mailto:dmitry.dev.react@gmail.com">Send me an Email</a>&nbsp;&nbsp;&nbsp;<br />
-  📧 <a href="mailto:dmitry.dev.react@gmail.com">Send me an Email</a>&nbsp;&nbsp;&nbsp;<br />
   🔗 <a href="https://www.linkedin.com/in/dmitry-yushkevich target="_blank">Connect on LinkedIn</a>&nbsp;&nbsp;&nbsp;<br />
 </div>
 
