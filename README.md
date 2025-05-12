@@ -25,7 +25,8 @@ const dmitry = {
             js: [Express, Nest],
         },
         databases: [PostgreSQL, Firebase],
-        misc: ["WebSockets", "GraphQl", "Redux", "Redux-saga", "Redux-toolkit", "React-tables", "React-query", "I18Next", "Jest", "Enzyme", "Webpack", "Parcel", "Rollup", "Eslint", "Stylelint", "Prettier", "Babel"],
+        misc: ["WebSockets", "GraphQl", "Redux", "Redux-saga", "Redux-toolkit", "React-tables", "React-query",
+              "I18Next", "Jest", "Enzyme", "Webpack", "Parcel", "Rollup", "Eslint", "Stylelint", "Prettier", "Babel"],
     },
     funFact: "I can debug faster with a coffee in hand!"
 };
