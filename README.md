@@ -1,8 +1,6 @@
 <h2 align='center'>Hey, I'm Dmitry Yushkevich! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-[![Linkedin: dmitry-yushkevich](https://img.shields.io/badge/-dmitryYushkevich-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dmitry-yushkevich/)](https://www.linkedin.com/in/dmitry-yushkevich/)
-
 <div align="center">
   <h3>Web Developer</h3>
   <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Proficient in <strong>React</strong> and <strong>Next.js</strong>&nbsp;✔</p>
@@ -10,6 +8,7 @@
   <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Check my links below&nbsp;👇</p>
   📌 <a href="https://">My Portfolio</a>&nbsp;&nbsp;&nbsp;<br />
   📧 <a href="mailto:dmitry.dev.react@gmail.com">Send me an Email</a>&nbsp;&nbsp;&nbsp;<br />
+  [![Linkedin: dmitry-yushkevich](https://img.shields.io/badge/-dmitryYushkevich-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dmitry-yushkevich/)](https://www.linkedin.com/in/dmitry-yushkevich/)
 </div>
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
