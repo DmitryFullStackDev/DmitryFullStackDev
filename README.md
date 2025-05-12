@@ -8,7 +8,8 @@
   <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Check my links below&nbsp;👇</p>
   📌 <a href="https://">My Portfolio</a>&nbsp;&nbsp;&nbsp;<br />
   📧 <a href="mailto:dmitry.dev.react@gmail.com">Send me an Email</a>&nbsp;&nbsp;&nbsp;<br />
-  [![Linkedin: dmitry-yushkevich](https://img.shields.io/badge/-dmitryYushkevich-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dmitry-yushkevich/)](https://www.linkedin.com/in/dmitry-yushkevich/)
+  📧 <a href="mailto:dmitry.dev.react@gmail.com">Send me an Email</a>&nbsp;&nbsp;&nbsp;<br />
+  🔗 <a href="https://www.linkedin.com/in/dmitry-yushkevich target="_blank">Connect on LinkedIn</a>&nbsp;&nbsp;&nbsp;<br />
 </div>
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
