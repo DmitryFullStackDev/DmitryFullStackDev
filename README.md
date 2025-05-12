@@ -11,26 +11,16 @@
 
 ```javascript
 const dmitry = {
-    pronouns: "He" | "Him",
-    code: ["TypeScript", "Javascript", "HTML5"],
-    askMeAbout: ["web dev", "app dev", "UI/UX"],
+    code: [TypeScript, Javascript],
     technologies: {
         frontEnd: {
-            js: ["React", "Next.js", Vue],
-            css: ["CSS3", "SASS", "SCSS", "LESS", "Staled-components"],
-            uiLibraries: ["Material UI", "Recharts", "React-tables", "Antd"],
+            js: [React, Next, Vue],
         },
         backEnd: {
-            js: ["Node", "Express", "NestJS"],
+            js: [Express, Nest],
         },
-        databases: ["PostgreSQL", "Firebase Realtime DB", "redis"],
-        misc: ["REST APIs", "WebSockets", "GraphQl", "Redux", "Redux-saga", "Redux-toolkit", "Reselect", "Vuex", "Axios", "React-tables", "React-query", "Formic", "I18Next", "Jest", "Enzyme", "Webpack", "Parcel", "Rollup", "Yarn", "Npm", "Eslint", "Stylelint", "Prettier", "Babel"],
-        generativeAI: ["GPT"],
-    },
-    architecture: {
-        frontEnd: ["SPA", "SSR"],
-        backEnd: ["microservices", "monolithic", "serverless"],
-        databases: ["Relational", "NoSQL"],
+        databases: [PostgreSQL, Firebase],
+        misc: ["WebSockets", "GraphQl", "Redux", "Redux-saga", "Redux-toolkit", "React-tables", "React-query", "I18Next", "Jest", "Enzyme", "Webpack", "Parcel", "Rollup", "Eslint", "Stylelint", "Prettier", "Babel"],
     },
     funFact: "I can debug faster with a coffee in hand!"
 };
