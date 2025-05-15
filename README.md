@@ -17,22 +17,30 @@
 
 ```js
 const dmitry = {
-  code: [TypeScript, Javascript],
-  technologies: {
-    frontEnd: {
-      js: [React, Next, Vue],
+    code: ["TypeScript", "JavaScript"],
+
+    technologies: {
+        frontEnd: {
+            jsFrameworks: ["React", "Next", "Vue", "Angular"],
+        },
+        backEnd: {
+            jsFrameworks: ["Express", "Nest"],
+        },
     },
-    backEnd: {
-      js: [Express, Nest],
+
+    databases: ["PostgreSQL", "Firebase"],
+
+    toolsAndLibraries: {
+        stateManagement: ["Redux", "Redux-saga", "Redux-toolkit"],
+        networking: ["WebSockets", "GraphQL"],
+        testing: ["Jest", "Enzyme"],
+        i18n: ["I18Next"],
+        dataHandling: ["React-query", "React-tables"],
+        bundlers: ["Webpack", "Parcel", "Rollup"],
+        codeQuality: ["ESLint", "Stylelint", "Prettier", "Babel"],
     },
-  },
-  databases: [PostgreSQL, Firebase],
-  misc: [
-    "WebSockets", "GraphQL", "Redux", "Redux-saga", "Redux-toolkit",
-    "React-tables", "React-query", "I18Next", "Jest", "Enzyme",
-    "Webpack", "Parcel", "Rollup", "ESLint", "Stylelint", "Prettier", "Babel"
-  ],
-  funFact: "I can debug faster with a coffee in hand!"
+
+    funFact: "I can debug faster with a coffee in hand!",
 };
 ```
 🤝 Let’s Connect!
