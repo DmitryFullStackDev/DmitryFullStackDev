@@ -1,5 +1,5 @@
-<h1 align="center">😎 I'm Dmitry Yushkevich!</h1>
-<h3 align="center">Senior Frontend Developer – Main focus is <strong>React</strong></h3>
+<h1 align="center">😎 Dmitry Yushkevich</h1>
+<h3 align="center">💻 Senior Frontend Developer – Focused on <strong>React</strong></h3>
 
 <p align="center">
   <a href="https://github.com/DmitryFullStackDev" target="_blank">
@@ -7,11 +7,13 @@
   </a>
 </p>
 
-<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230" alt="Coding Character" />
+<p align="center">
+  <img align="center" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200" alt="Coding Character" />
+</p>
 
 ---
 
-### 🧑‍💻 A little more about me...
+### 👨‍💻 About Me
 
 ```js
 const dmitry = {
@@ -33,8 +35,5 @@ const dmitry = {
   funFact: "I can debug faster with a coffee in hand!"
 };
 ```
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" alt="Handshake" /> <em><b>I love connecting with different people!</b> If you want to say <b>hi</b>, I'd be happy to meet you 😊</em>
-
-🔗 Let's Connect!
-<p align="center"> <a href="https://your-portfolio-link.com" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-visit-blue?style=for-the-badge" alt="Portfolio" /> </a> &nbsp; <a href="mailto:dmitry.dev.react@gmail.com"> <img src="https://img.shields.io/badge/Email-me-red?style=for-the-badge" alt="Email Me" /> </a> &nbsp; <a href="https://www.linkedin.com/in/dmitry-yushkevich" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-connect-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn" /> </a> </p> 
+🤝 Let’s Connect!
+<p align="center"> <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" alt="Handshake" /> </p> <p align="center"><em><b>I love connecting with people</b> – whether it's tech talk or coffee chats ☕<br/>Feel free to reach out and say <b>hi</b>!</em></p> <p align="center"> <a href="https://your-portfolio-link.com" target="_blank"> <img src="https://img.shields.io/badge/My_Portfolio-Visit-blueviolet?style=for-the-badge&logo=web" alt="Portfolio" /> </a> &nbsp; <a href="mailto:dmitry.dev.react@gmail.com"> <img src="https://img.shields.io/badge/Email-Me-red?style=for-the-badge&logo=gmail" alt="Email Me" /> </a> &nbsp; <a href="https://www.linkedin.com/in/dmitry-yushkevich" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" /> </a> </p> 
