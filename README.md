@@ -1,37 +1,32 @@
-<h2 align='center'>Hey, I'm Dmitry! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
-<br />
+<h1 align="center">😎 I'm Dmitry Yushkevich!</h1>
+<h3 align="center">Senior Frontend Developer - Main focus is React</h3>
 
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<p align="center">
+  <a href="https://github.com/DmitryFullStackDev" target="_blank">
+    <img src="https://img.shields.io/github/followers/DmitryFullStackDev?label=Follow&style=social" alt="GitHub Follow" />
+  </a>
+</p>
 
 <div align="center">
-  <h3>Web Developer</h3>
-  <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Proficient in <strong>React</strong> and <strong>Next.js</strong>&nbsp;✔</p>
-  <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fluent in <strong>English</strong>&nbsp;✔</p>
-  <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Check my links below&nbsp;👇</p>
-  📌 <a href="https://" target="_blank">My Portfolio</a>&nbsp;&nbsp;&nbsp;<br />
-  📧 <a href="mailto:dmitry.dev.react@gmail.com">Send me an Email</a>&nbsp;&nbsp;&nbsp;<br />
-  🔗 <a href="https://www.linkedin.com/in/dmitry-yushkevich" target="_blank">Connect on LinkedIn</a>&nbsp;&nbsp;&nbsp;<br /><br />
+  <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="40" /> 
+  <strong>A little more about me...</strong>
 </div>
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+<br />
 
-```javascript
+```js
 const dmitry = {
-    code: [TypeScript, Javascript],
-    technologies: {
-        frontEnd: {
-            js: [React, Next, Vue],
-        },
-        backEnd: {
-            js: [Express, Nest],
-        },
-        databases: [PostgreSQL, Firebase],
-        misc: ["WebSockets", "GraphQl", "Redux", "Redux-saga", "Redux-toolkit", "React-tables", "React-query",
-              "I18Next", "Jest", "Enzyme", "Webpack", "Parcel", "Rollup", "Eslint", "Stylelint", "Prettier", "Babel"],
-    },
-    funFact: "I can debug faster with a coffee in hand!"
-};
-```
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
-
+  conde: "Typescript, Javascript",
+  technologiess: {
+    frontEnd: ['React', 'Next.js', 'Vue'],
+    backEnd: ['Express', 'NestJS'],
+    databases: ['PostgrsSQL', 'Firebase'],
+    misc: [
+      'WebSockets', 'GraphQL', 'Redux-saga', 'Redux-toolkit',
+      'React-tables', 'React-query',
+      'Webpack', 'Parcel', 'Rollup', 'ESLint', 'Stylelint',
+      'Prettier', 'Babel'
+    ]
+  },
+  funFact: "I can debug faster with a coffee in hand"
+}
