@@ -43,5 +43,6 @@ const dmitry = {
     funFact: "I can debug faster with a coffee in hand!",
 };
 ```
-🤝 Let’s Connect!
+### 🤝 Let’s Connect!
+
 <p align="center"> <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" alt="Handshake" /> </p> <p align="center"><em><b>I love connecting with people</b> – whether it's tech talk or coffee chats ☕<br/>Feel free to reach out and say <b>hi</b>!</em></p> <p align="center"> <a href="https://your-portfolio-link.com" target="_blank"> <img src="https://img.shields.io/badge/My_Portfolio-Visit-blueviolet?style=for-the-badge&logo=web" alt="Portfolio" /> </a> &nbsp; <a href="mailto:dmitry.dev.react@gmail.com"> <img src="https://img.shields.io/badge/Email-Me-red?style=for-the-badge&logo=gmail" alt="Email Me" /> </a> &nbsp; <a href="https://www.linkedin.com/in/dmitry-yushkevich" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" /> </a> </p> 
