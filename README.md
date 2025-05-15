@@ -1,11 +1,16 @@
-<h1 align="center">😎 I'm Dmitry Yushkevich!</h1>
-<h3 align="center">Senior Frontend Developer - Main focus is React</h3>
+<div style="display:flex">
+  <div>
+  <h1 align="left">😎 I'm Dmitry Yushkevich!</h1>
+  <br/>
+  <h3 align="center">Senior Frontend Developer - Main focus is React</h3>
+  
+  [![Linkedin: dmitry-yushkevich](https://img.shields.io/badge/-dmitryYushkevich-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dmitry-yushkevich/)](https://www.linkedin.com/in/dmitry-yushkevich/)
+  [![GitHub DmitryFullStackDev](https://img.shields.io/github/followers/DmitryFullStackDev?label=follow&style=social)](https://github.com/DmitryFullStackDev)
+  
+  </div>
+  <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+</div>
 
-<p align="center">
-  <a href="https://github.com/DmitryFullStackDev" target="_blank">
-    <img src="https://img.shields.io/github/followers/DmitryFullStackDev?label=Follow&style=social" alt="GitHub Follow" />
-  </a>
-</p>
 
 <div align="center">
   <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="40" /> 
