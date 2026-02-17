@@ -2,12 +2,6 @@
 <h3 align="center">💻 Senior Frontend Developer – Focused on <strong>React</strong></h3>
 
 <p align="center">
-  <a href="https://github.com/DmitryFullStackDev" target="_blank">
-    <img src="https://img.shields.io/github/followers/DmitryFullStackDev?label=Follow&style=social" alt="GitHub Follow" />
-  </a>
-</p>
-
-<p align="center">
   <img align="center" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200" alt="Coding Character" />
 </p>
 
